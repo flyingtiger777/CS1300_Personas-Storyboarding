@@ -1,0 +1,7 @@
+#container{
+    display: flex;
+    background-color:#33475b;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding:3%;
+};
